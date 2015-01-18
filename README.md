@@ -1,0 +1,2 @@
+# LOL
+My first repositiry
